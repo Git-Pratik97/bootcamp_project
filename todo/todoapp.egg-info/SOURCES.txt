@@ -1,0 +1,7 @@
+setup.py
+todoapp.egg-info/PKG-INFO
+todoapp.egg-info/SOURCES.txt
+todoapp.egg-info/dependency_links.txt
+todoapp.egg-info/not-zip-safe
+todoapp.egg-info/requires.txt
+todoapp.egg-info/top_level.txt
